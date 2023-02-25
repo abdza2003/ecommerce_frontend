@@ -1,4 +1,4 @@
-# newdesgin
+# ecommerce app desgin - frontend 
 
 A new Flutter project.
 
